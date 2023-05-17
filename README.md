@@ -16,7 +16,7 @@ The IBM Quantum Challenge is exactly that: a challenge. Some labs will be relati
 
 
 ## Challenge content
-- Lab 1: Intro to Dynamic Circuits 
+- [Lab 1: Intro to Dynamic Circuits](https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023/blob/main/content/lab_1/lab1.ipynb) 
 - Lab 2: Quantum Teleportation
 - Lab 3: Iterative Phase Estimation
 - Lab 4: Quantum Error Correction
