@@ -20,7 +20,7 @@ The IBM Quantum Challenge is exactly that: a challenge. Some labs will be relati
 - [Lab 2: Quantum Teleportation](./content/lab_2/lab2.ipynb) 
 - [Lab 3: Iterative Phase Estimation](./content/lab_3/lab3.ipynb) 
 - [Lab 4: Quantum Error Correction](./content/lab_4/lab4.ipynb)
-- Lab 5: Using a 127-qubit System
+- [Lab 5: Using a 127-qubit System](./content/lab_5/lab5.ipynb)
 
 
 ## Challenge solution examples
