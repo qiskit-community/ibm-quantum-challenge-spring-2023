@@ -2,9 +2,7 @@
 
 [![License](https://img.shields.io/github/license/qiskit-community/ibm-quantum-challenge-spring-2023.svg)](https://opensource.org/licenses/Apache-2.0)<!--- long-description-skip-begin -->![Last updated](https://img.shields.io/github/last-commit/qiskit-community/ibm-quantum-challenge-spring-2023/main?label=Last%20updated&style=flat)
 
-
 The IBM Quantum Challenge is back with a new challenge: run dynamic circuits on a 127-qubit processor.
-
 
 ## Introduction
 
@@ -14,23 +12,21 @@ This event will feature 5 Labs, each with exercises and tutorial content to get 
 
 The IBM Quantum Challenge is exactly that: a challenge. Some labs will be relatively easy, while others should put your knowledge to the test. We hope this experience will turbocharge your exploration of IBM Quantum hardware and software, while providing an opportunity to network with members of the IBM Quantum and Qiskit community.
 
-
 ## Challenge content
-- [Lab 1: Intro to Dynamic Circuits](./content/lab_1/lab1.ipynb) 
-- [Lab 2: Quantum Teleportation](./content/lab_2/lab2.ipynb) 
-- [Lab 3: Iterative Phase Estimation](./content/lab_3/lab3.ipynb) 
+
+- [Lab 1: Intro to Dynamic Circuits](./content/lab_1/lab1.ipynb)
+- [Lab 2: Quantum Teleportation](./content/lab_2/lab2.ipynb)
+- [Lab 3: Iterative Phase Estimation](./content/lab_3/lab3.ipynb)
 - [Lab 4: Quantum Error Correction](./content/lab_4/lab4.ipynb)
 - [Lab 5: Using a 127-qubit System](./content/lab_5/lab5.ipynb)
 
-
 ## Challenge solution examples
 
-_Solutions will be posted once the challenge completes._
-
-
-&nbsp;
-&nbsp;
-
+- [Lab 1 Solution](./solutions/lab_1/lab1.ipynb)
+- [Lab 2 Solution](./solutions/lab_2/lab2.ipynb)
+- [Lab 3 Solution](./solutions/lab_3/lab3.ipynb)
+- [Lab 4 Solution](./solutions/lab_4/lab4.ipynb)
+- [Lab 5 Solution](./solutions/lab_5/lab5.ipynb)
 
 # [Event Code of Conduct](./CODE_OF_CONDUCT.md)
 
