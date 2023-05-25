@@ -22,11 +22,11 @@ The IBM Quantum Challenge is exactly that: a challenge. Some labs will be relati
 
 ## Challenge solution examples
 
-- [Lab 1 Solution](./solutions/lab_1/lab1.ipynb)
-- [Lab 2 Solution](./solutions/lab_2/lab2.ipynb)
-- [Lab 3 Solution](./solutions/lab_3/lab3.ipynb)
-- [Lab 4 Solution](./solutions/lab_4/lab4.ipynb)
-- [Lab 5 Solution](./solutions/lab_5/lab5.ipynb)
+- [Lab 1 Solution](./solutions/lab_1/lab1_solution.ipynb)
+- [Lab 2 Solution](./solutions/lab_2/lab2_solution.ipynb)
+- [Lab 3 Solution](./solutions/lab_3/lab3_solution.ipynb)
+- [Lab 4 Solution](./solutions/lab_4/lab4_solution.ipynb)
+- [Lab 5 Solution](./solutions/lab_5/lab5_solution.ipynb)
 
 # [Event Code of Conduct](./CODE_OF_CONDUCT.md)
 
