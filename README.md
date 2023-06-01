@@ -41,6 +41,7 @@ Thank you! to everyone who helped make this challenge possible and a great succe
 - Brian Ingmanson
 - Iman Elsayed
 - James Weaver
+- Kallie Ferguson
 - Kevin Sung
 - Kifumi Numata
 - Marcel Pfaffhauser
