@@ -31,3 +31,24 @@ The IBM Quantum Challenge is exactly that: a challenge. Some labs will be relati
 # [Event Code of Conduct](./CODE_OF_CONDUCT.md)
 
 # [FAQ / Wiki](https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023/wiki)
+
+# Collaborators
+
+Thank you! to everyone who helped make this challenge possible and a great success.
+
+- Alexandre Alemany Orfila
+- Anne Gebbie
+- Brian Ingmanson
+- Iman Elsayed
+- James Weaver
+- Kevin Sung
+- Kifumi Numata
+- Marcel Pfaffhauser
+- Marco Facchini
+- Maria Esperanza Molina Canizares
+- Matthew Stypulkoski
+- Serena Godwin
+- Sophy Shin
+- va barbosa
+- Vishal Sharathchandra Bajpe
+- Yuri Kobayashi
